@@ -1,0 +1,6 @@
+Esses gits devem ser usados dentro do local de mudança
+> git status: verificar status
+> git add . : adicionar mudanças no repositório local
+> git commit -m "colocar a mensagem para indicar o que está mudando": nesse caso deve ser feito após adicionar mudanças no repositório local, para adicionar mudanças no commit.
+> git push origin main: enviar o commit atualizadopara o repositório remoto.
+ 
